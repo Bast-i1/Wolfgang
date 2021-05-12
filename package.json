@@ -14,7 +14,7 @@
     "mobius1-selectr": "^2.4.13",
     "popper.js": "^1.16.1",
     "simple-drawing-board": "^3.1.2",
-    "swiper": "^6.3.5",
+    "swiper": "^6.5.1",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
